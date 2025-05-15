@@ -1,4 +1,4 @@
-# cpr museum
+# CPaRchive
 
 Tracking changes to CPR websites monthly, by taking screenshots of them
 
