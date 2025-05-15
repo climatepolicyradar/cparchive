@@ -1,4 +1,4 @@
-# CPaRchive
+# CParchive
 
 Tracking changes to CPR websites monthly, by taking screenshots of them
 
